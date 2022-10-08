@@ -16,9 +16,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <CustomButton>
-          寿限無寿限無後光の擦り切れ回砂利水魚の水行末風来松雲来松くうねる所に住むところ藪ら工事のブラ工事ぱいぽパイポパイ
-        </CustomButton>
+        <CustomButton>styled-componentsの部分だよ </CustomButton>
         <a
           className="App-link"
           href="https://reactjs.org"
